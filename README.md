@@ -5,14 +5,14 @@
 I am a Front-End Developer at the Fresher level. I am passionate about learning and sharing knowledge with others. I am good at HTML, CSS, and JavaScript. Currently, I'm learning MERN Stack development. I feel happy doing a new web project.
 
 Skills:  JS / HTML / CSS/ C 
-<img aling="right" width="400" alt="Coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 🌱 I’m currently learning MERN Stack Development 
 - 🤔 I’m looking for help with New web project 
 - 💬 Ask me about Web Development  
 - 📫 How to reach me: naimhossen1929@gmail.com 
 - 😄 Pronouns: He 
-- ⚡ Fun fact: Fall in Love  
+- ⚡ Fun fact: Fall in Love
+<img align="right" width="400" alt="Coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/naimhossen1929)  
