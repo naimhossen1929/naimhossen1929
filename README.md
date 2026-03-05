@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Hi there 👋 I'm Naim Hossen
 
@@ -45,13 +44,13 @@ https://naimhossen1929.github.io/SwiftCart/products.html
 
 ## 📊 GitHub Stats
 
-![Naim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Naim's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimhossen1929&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimhossen1929&layout=compact&theme=tokyonight)
 
 ---
 
