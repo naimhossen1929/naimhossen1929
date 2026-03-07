@@ -21,19 +21,22 @@
 ## 👤 About Me
 ```typescript
 const developer = {
-  Name        : "Naim Hossen",
-  Title       : "Front-End Developer",
-  Location    : "Dhaka, Bangladesh 🌍",
-  Focus       : ["Responsive UI", "Clean Code", "Component Architecture"],
-  CurrentWork : "Building pixel-perfect interfaces with React & Tailwind",
-  Learning    : ["Next.js", "Redux Toolkit", "TypeScript"],
-  Available   : true, // open to opportunities
+  name        : "Naim Hossen",
+  title       : "Front-End Developer",
+  location    : "Dhaka, Bangladesh 🌍",
+  focus: [
+  "Crafting Responsive & Accessible Interfaces",
+  "Writing Clean, Maintainable & Scalable Code",
+  "Building Reusable Component Architecture",
+  "Continuously Learning & Improving My Project",
+],
+  currentWork : "Building pixel-perfect interfaces with React & Tailwind",
+  learning    : ["Next.js", "Redux Toolkit", "TypeScript"],
+  available   : true, // open to opportunities
 };
 ```
 
 <br/>
-
-👋 I'm **Naim Hossen** — a passionate Front-End Developer with 1–2 years of experience building clean, responsive web interfaces with **React**, **JavaScript**, and **Tailwind CSS**. I love turning ideas into reality and crafting modern web experiences that users enjoy.
 
 - 💬 &nbsp; Ask me anything about **React**, **JavaScript**, **Tailwind CSS**
 - 📫 &nbsp; Reach me at **[naimhossen1929@gmail.com](naimhossen1929@gmail.com)**
@@ -47,22 +50,11 @@ const developer = {
 
 ### Core Technologies
 
-![React](https://img.shields.io/badge/React-1abc9c?style=for-the-badge&logo=react&logoColor=0d0d2b)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d2b?style=for-the-badge&logo=javascript&logoColor=1abc9c)
-![HTML5](https://img.shields.io/badge/HTML5-6c3483?style=for-the-badge&logo=html5&logoColor=76f0d3)
-![CSS3](https://img.shields.io/badge/CSS3-1abc9c?style=for-the-badge&logo=css3&logoColor=0d0d2b)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a3d62?style=for-the-badge&logo=tailwindcss&logoColor=76f0d3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6c3483?style=for-the-badge&logo=bootstrap&logoColor=76f0d3)
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,bootstrap&theme=dark" />
 
 ### Dev Tools & Workflow
 
-![Git](https://img.shields.io/badge/Git-6c3483?style=for-the-badge&logo=git&logoColor=1abc9c)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d2b?style=for-the-badge&logo=github&logoColor=1abc9c)
-![VS Code](https://img.shields.io/badge/VS%20Code-1abc9c?style=for-the-badge&logo=visualstudiocode&logoColor=0d0d2b)
-![Figma](https://img.shields.io/badge/Figma-0a3d62?style=for-the-badge&logo=figma&logoColor=76f0d3)
-![Vercel](https://img.shields.io/badge/Vercel-6c3483?style=for-the-badge&logo=vercel&logoColor=1abc9c)
-![Netlify](https://img.shields.io/badge/Netlify-0d0d2b?style=for-the-badge&logo=netlify&logoColor=76f0d3)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0a3d62?style=for-the-badge&logo=huggingface&logoColor=1abc9c)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark" />
 
 </div>
 
@@ -74,23 +66,13 @@ const developer = {
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-1abc9c?style=for-the-badge&logo=nextdotjs&logoColor=0d0d2b)
-![Redux](https://img.shields.io/badge/Redux-6c3483?style=for-the-badge&logo=redux&logoColor=76f0d3)
-
+<img src="https://skillicons.dev/icons?i=nextjs,redux&theme=dark" />
 
 </div>
 
 ---
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimhossen1929&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1abc9c&icon_color=76f0d3&text_color=e2e8f0" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimhossen1929&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1abc9c&text_color=e2e8f0&langs_count=6" />
-
-</div>
 
 <div align="center">
 
@@ -106,7 +88,7 @@ const developer = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d2b,100:0a3d62&height=3&width=100%" width="100%"/>
 
 ### 01 · 🛍️ SwiftCart
-> Responsive e-commerce storefront with cart & product filtering
+> A responsive e-commerce product listing application that dynamically loads and displays products with category filtering. Built using JavaScript, Tailwind CSS, and DaisyUI, focusing on clean UI design and efficient DOM manipulation.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-6c3483?style=flat-square&logo=javascript&logoColor=1abc9c)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0a3d62?style=flat-square&logo=tailwindcss&logoColor=76f0d3)
@@ -120,7 +102,7 @@ const developer = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d2b,100:0a3d62&height=3&width=100%" width="100%"/>
 
 ### 02 · 📝 easyEnglish
-> Vocabulary learning platform. 
+> Easy-English is a beginner-friendly vocabulary learning web app that allows users to explore English words, meanings, and examples through a clean and interactive interface built with JavaScript.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-6c3483?style=flat-square&logo=javascript&logoColor=1abc9c)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0a3d62?style=flat-square&logo=tailwindcss&logoColor=76f0d3)
@@ -159,15 +141,6 @@ const developer = {
 
 <br/>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=naimhossen1929&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
