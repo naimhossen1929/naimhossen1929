@@ -67,12 +67,32 @@ const developer = {
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" title="Node.js" /></a>
 &nbsp;
 <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express.js" title="Express.js" /></a>
+&nbsp;
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" /></a>
 
 </div>
 
 ### Dev Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark" />
+<div align="left">
+
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" title="Git" /></a>
+&nbsp;
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" title="GitHub" /></a>
+&nbsp;
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" title="VS Code" /></a>
+&nbsp;
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" title="Figma" /></a>
+&nbsp;
+<a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Vercel" title="Vercel" /></a>
+&nbsp;
+<a href="https://www.netlify.com"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" height="48" alt="Netlify" title="Netlify" /></a>
+&nbsp;
+<a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" title="Postman" /></a>
+&nbsp;
+<a href="https://www.beekeeperstudio.io"><img src="https://img.shields.io/badge/Beekeeper_Studio-FFC107?style=for-the-badge&logoColor=black" height="28" alt="Beekeeper Studio" title="Beekeeper Studio" /></a>
+
+</div>
 
 </div>
 
@@ -84,7 +104,9 @@ const developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,redux&theme=dark" />
+<a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48" height="48" alt="Redux" title="Redux" /></a>
+&nbsp;
+<a href="https://www.prisma.io"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="48" height="48" alt="Prisma" title="Prisma" /></a>
 
 </div>
 
@@ -134,14 +156,6 @@ const developer = {
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimhossen1929&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff)](https://github.com/naimhossen1929)
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <br/>
@@ -164,17 +178,25 @@ const developer = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:58a6ff&height=3&width=100%" width="100%" alt="" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/yourprofile" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-1f6feb?style=for-the-badge&logo=linkedin&logoColor=79c0ff&labelColor=0d1117" height="42" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" />
+<a href="https://yourportfolio.com" title="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-388bfd?style=for-the-badge&logo=googlechrome&logoColor=a5d6ff&labelColor=0d1117" height="42" alt="Portfolio" />
 </a>
 &nbsp;
-<a href="mailto:naimhossen1929@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" />
+<a href="mailto:naimhossen1929@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-Send_a_Message-58a6ff?style=for-the-badge&logo=gmail&logoColor=cae8ff&labelColor=0d1117" height="42" alt="Gmail" />
 </a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:1f6feb,100:0d1117&height=3&width=100%" width="100%" alt="" />
 
 </div>
 
