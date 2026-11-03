@@ -1,16 +1,18 @@
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,30:0a3d62,60:1abc9c,100:6c3483&height=200&section=header&text=Naim%20Hossen&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20React%20%7C%20JavaScript%20%7C%20Tailwind%20CSS&descAlignY=58&descSize=18&descColor=ffffff" />
+<!-- Background Banner (upload your image to /assets/banner.png) -->
+<p align="center">
+  <img src="./assets/banner.png" alt="Naim Hossen - Front-End Developer" width="100%" />
+</p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Crafting+clean+%26+performant+UIs+%E2%9A%A1;Passionate+about+great+user+experiences;Always+learning%2C+always+building+%F0%9F%9A%80;Love+to+build+new+projects+%F0%9F%92%BB;Turning+ideas+into+reality+%F0%9F%92%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Crafting+clean+%26+performant+UIs+%E2%9A%A1;Passionate+about+great+user+experiences;Always+learning%2C+always+building+%F0%9F%9A%80;Love+to+build+new+projects+%F0%9F%92%BB;Turning+ideas+into+reality+%F0%9F%92%A1" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=naimhossen1929&color=1abc9c&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/naimhossen1929?style=flat-square&color=1abc9c&label=Followers)](https://github.com/naimhossen1929)
-[![GitHub Stars](https://img.shields.io/github/stars/naimhossen1929?style=flat-square&color=1abc9c&label=Stars)](https://github.com/naimhossen1929)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-1abc9c?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+![Profile Views](https://komarev.com/ghpvc/?username=naimhossen1929&color=1f6feb&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/naimhossen1929?style=flat-square&color=1f6feb&label=Followers)](https://github.com/naimhossen1929)
+[![GitHub Stars](https://img.shields.io/github/stars/naimhossen1929?style=flat-square&color=1f6feb&label=Stars)](https://github.com/naimhossen1929)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-1f6feb?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
@@ -25,11 +27,11 @@ const developer = {
   title       : "Front-End Developer",
   location    : "Dhaka, Bangladesh 🌍",
   focus: [
-  "Crafting Responsive & Accessible Interfaces",
-  "Writing Clean, Maintainable & Scalable Code",
-  "Building Reusable Component Architecture",
-  "Continuously Learning & Improving My Project",
-],
+    "Crafting Responsive & Accessible Interfaces",
+    "Writing Clean, Maintainable & Scalable Code",
+    "Building Reusable Component Architecture",
+    "Continuously Learning & Improving My Project",
+  ],
   currentWork : "Building pixel-perfect interfaces with React & Tailwind",
   learning    : ["Next.js", "Redux Toolkit", "TypeScript"],
   available   : true, // open to opportunities
@@ -39,7 +41,7 @@ const developer = {
 <br/>
 
 - 💬 &nbsp; Ask me anything about **React**, **JavaScript**, **Tailwind CSS**
-- 📫 &nbsp; Reach me at **[naimhossen1929@gmail.com](naimhossen1929@gmail.com)**
+- 📫 &nbsp; Reach me at **[naimhossen1929@gmail.com](mailto:naimhossen1929@gmail.com)**
 - 🤝 &nbsp; Open to **collaborations**, **freelance work**, and **open-source contributions**
 
 ---
@@ -76,7 +78,9 @@ const developer = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=naimhossen1929&hide_border=true&background=0d0d2b&ring=ffd700&fire=ff8c00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffd700&currStreakLabel=ff8c00&dates=a0aec0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=naimhossen1929&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakNum=ffffff&sideNums=ffffff&sideLabels=58a6ff&currStreakLabel=58a6ff&dates=8b949e)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -85,35 +89,32 @@ const developer = {
 <br/>
 
 <!-- Project 01 -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d2b,100:0a3d62&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=3&width=100%" width="100%"/>
 
 ### 01 · 🛍️ SwiftCart
 > A responsive e-commerce product listing application that dynamically loads and displays products with category filtering. Built using JavaScript, Tailwind CSS, and DaisyUI, focusing on clean UI design and efficient DOM manipulation.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-6c3483?style=flat-square&logo=javascript&logoColor=1abc9c)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a3d62?style=flat-square&logo=tailwindcss&logoColor=76f0d3)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=58a6ff)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=58a6ff)
 
-[![Demo](https://img.shields.io/badge/🌐_Live_Demo-0a3d62?style=for-the-badge)](https://naimhossen1929.github.io/SwiftCart/)
-[![Code](https://img.shields.io/badge/💻_Source_Code-6c3483?style=for-the-badge&logo=github)](https://github.com/naimhossen1929/SwiftCart)
+[![Demo](https://img.shields.io/badge/🌐_Live_Demo-1f6feb?style=for-the-badge)](https://naimhossen1929.github.io/SwiftCart/)
+[![Code](https://img.shields.io/badge/💻_Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/naimhossen1929/SwiftCart)
 
 <br/>
 
 <!-- Project 02 -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d2b,100:0a3d62&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=3&width=100%" width="100%"/>
 
 ### 02 · 📝 easyEnglish
 > Easy-English is a beginner-friendly vocabulary learning web app that allows users to explore English words, meanings, and examples through a clean and interactive interface built with JavaScript.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-6c3483?style=flat-square&logo=javascript&logoColor=1abc9c)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a3d62?style=flat-square&logo=tailwindcss&logoColor=76f0d3)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=58a6ff)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=58a6ff)
 
-
-[![Demo](https://img.shields.io/badge/🌐_Live_Demo-0a3d62?style=for-the-badge)](https://naimhossen1929.github.io/easy-English-/)
-[![Code](https://img.shields.io/badge/💻_Source_Code-6c3483?style=for-the-badge&logo=github)](https://github.com/naimhossen1929/easy-English-)
+[![Demo](https://img.shields.io/badge/🌐_Live_Demo-1f6feb?style=for-the-badge)](https://naimhossen1929.github.io/easy-English-/)
+[![Code](https://img.shields.io/badge/💻_Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/naimhossen1929/easy-English-)
 
 <br/>
-
-
 
 ---
 
@@ -121,7 +122,7 @@ const developer = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimhossen1929&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1abc9c&line=6c3483&point=76f0d3)](https://github.com/naimhossen1929)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimhossen1929&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff)](https://github.com/naimhossen1929)
 
 </div>
 
@@ -141,7 +142,6 @@ const developer = {
 
 <br/>
 
-
 ---
 
 ## 🤝 Let's Connect
@@ -149,15 +149,15 @@ const developer = {
 <div align="center">
 
 <a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1abc9c?style=for-the-badge&logo=linkedin&logoColor=0d0d2b" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6c3483?style=for-the-badge&logo=vercel&logoColor=76f0d3" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" />
 </a>
 &nbsp;
 <a href="mailto:naimhossen1929@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-6c3483?style=for-the-badge&logo=gmail&logoColor=1abc9c" />
+  <img src="https://img.shields.io/badge/Gmail-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" />
 </a>
 
 </div>
@@ -176,6 +176,6 @@ const developer = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c3483,30:1abc9c,60:0a3d62,100:0d0d2b&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer" />
 
 </div>
