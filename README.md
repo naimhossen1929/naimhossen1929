@@ -1,6 +1,6 @@
 <!-- Background Banner (upload your image to /assets/banner.png) -->
 <p align="center">
-  <img src="[(https://www.facebook.com/photo/?fbid=2247510095825126&set=a.214257239150432)]" alt="Naim Hossen - Front-End Developer" width="100%" />
+  <img src="[([https://www.facebook.com/photo/?fbid=2247510095825126&set=a.214257239150432](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/885670270_2247510099158459_5569401714253343355_n.jpg?stp=dst-jpg_tt6&cstp=mx2172x724&ctp=s2172x724&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1MAks95KpyMQ7kNvwH44dc1&_nc_oc=Adrjwd3vRsv2n7PYUAOdHhdyxi3YD6igHY9F_6Y6U1qg227oRm5t7MKeE1q3cczk7RM&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=QZFCBRbU-2aWOJwqRUTG_g&_nc_ss=7b2a8&oh=00_AQSE5wFzmjxEAxaX5qQDS87y49dLFsJdGh5pvUz6XsOETg&oe=6AEF33A8))]" alt="Naim Hossen - Front-End Developer" width="100%" />
 </p>
 
 <div align="center">
