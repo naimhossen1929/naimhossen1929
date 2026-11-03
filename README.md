@@ -48,11 +48,27 @@ const developer = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Core Technologies
 
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,bootstrap&theme=dark" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript" /></a>
+&nbsp;
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" title="TypeScript" /></a>
+&nbsp;
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" title="React.js" /></a>
+&nbsp;
+<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" title="Next.js" /></a>
+&nbsp;
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+&nbsp;
+<a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap" title="Bootstrap" /></a>
+&nbsp;
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" title="Node.js" /></a>
+&nbsp;
+<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express.js" title="Express.js" /></a>
+
+</div>
 
 ### Dev Tools & Workflow
 
