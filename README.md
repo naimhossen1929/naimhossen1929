@@ -1,6 +1,6 @@
 <!-- Background Banner (upload your image to /assets/banner.png) -->
 <p align="center">
-  <img src="(https://www.facebook.com/photo/?fbid=2247510095825126&set=a.214257239150432)" alt="Naim Hossen - Front-End Developer" width="100%" />
+  <img src="[(https://www.facebook.com/photo/?fbid=2247510095825126&set=a.214257239150432)]" alt="Naim Hossen - Front-End Developer" width="100%" />
 </p>
 
 <div align="center">
