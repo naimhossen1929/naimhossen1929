@@ -116,7 +116,25 @@ const developer = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=naimhossen1929&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakNum=ffffff&sideNums=ffffff&sideLabels=58a6ff&currStreakLabel=58a6ff&dates=8b949e)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/naimhossen1929">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimhossen1929&theme=github_dark" width="49%" alt="GitHub Profile Details" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/naimhossen1929?tab=repositories">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimhossen1929&theme=github_dark" width="49%" alt="Most Used Languages" />
+
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/naimhossen1929">
+  <img src="https://streak-stats.demolab.com/?user=naimhossen1929&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=58a6ff&dates=8b949e&stroke=30363d&locale=en" alt="GitHub Streak" width="100%" />
+</a>
 
 </div>
 
