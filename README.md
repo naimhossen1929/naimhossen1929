@@ -1,6 +1,6 @@
 <!-- Background Banner (upload your image to /assets/banner.png) -->
 <p align="center">
-  <img src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/885670270_2247510099158459_5569401714253343355_n.jpg?stp=dst-jpg_tt6&cstp=mx2172x724&ctp=p180x540&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1MAks95KpyMQ7kNvwH44dc1&_nc_oc=Adrjwd3vRsv2n7PYUAOdHhdyxi3YD6igHY9F_6Y6U1qg227oRm5t7MKeE1q3cczk7RM&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=QJwKCROKRXHUXvee4a3kzw&_nc_ss=7b2a8&oh=00_AQQoU5EqbI_aM8v-ZkW11oWi7Vy2LTDX6k0I4XD-CJj2Ow&oe=6AEF33A8" alt="Naim Hossen - Front-End Developer" width="100%" />
+  <img src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/885670270_2247510099158459_5569401714253343355_n.jpg?stp=dst-jpg_tt6&cstp=mx2172x724&ctp=s2172x724&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MBUD8o-PQssQ7kNvwEhgQul&_nc_oc=AdrnVePhJFpmcd5LSuMo_-lgv4NbB3xkZwP2eTOft6jTIoHxdFFWnlBDxGxyovD_stI&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=dpkmM5UKdgUd_Lu9MWEYgA&_nc_ss=7b2a8&oh=00_AQQuiLeCk3reQrS0T05f_X3hajRl_NZxAK4cYBdpxc2lZg&oe=6AFB4968" alt="Naim Hossen - Front-End Developer" width="100%" />
 </p>
 
 <div align="center">
@@ -120,15 +120,13 @@ const developer = {
   <tr>
     <td align="center">
       <a href="https://github.com/naimhossen1929">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimhossen1929&theme=github_dark" width="49%" alt="GitHub Profile Details" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimhossen1929&theme=github_dark" width="100%" alt="GitHub Profile Details" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/naimhossen1929?tab=repositories">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimhossen1929&theme=github_dark" width="49%" alt="Most Used Languages" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimhossen1929&theme=github_dark" width="100%" alt="Most Used Languages" />
 
-      </a>
-    </td>
   </tr>
 </table>
 
