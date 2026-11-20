@@ -1,6 +1,6 @@
 <!-- Background Banner (upload your image to /assets/banner.png) -->
 <p align="center">
-  <img src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/885670270_2247510099158459_5569401714253343355_n.jpg?stp=dst-jpg_tt6&cstp=mx2172x724&ctp=s2172x724&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MBUD8o-PQssQ7kNvwEhgQul&_nc_oc=AdrnVePhJFpmcd5LSuMo_-lgv4NbB3xkZwP2eTOft6jTIoHxdFFWnlBDxGxyovD_stI&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=dpkmM5UKdgUd_Lu9MWEYgA&_nc_ss=7b2a8&oh=00_AQQuiLeCk3reQrS0T05f_X3hajRl_NZxAK4cYBdpxc2lZg&oe=6AFB4968" alt="Naim Hossen - Front-End Developer" width="100%" />
+  <img src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/885670270_2247510099158459_5569401714253343355_n.jpg?stp=dst-jpg_tt6&cstp=mx2172x724&ctp=s2172x724&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JdariMzPLQUQ7kNvwFAQIGS&_nc_oc=AdpNAxIsAAcJf0JQDK0EcCWz2_aCnKov4V20cnQzl0TeQ-NZ6SCSg6y5Q2OG_lU1TgU&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=Vlh0Z_WBUOwyWhzzZbChcA&_nc_ss=7b2a8&oh=00_AQTJqpLQiE8cnEcd_RnBVxXlVYqciNYCamwtUzrKXsAGkg&oe=6B059D28" alt="Naim Hossen - Front-End Developer" width="100%" />
 </p>
 
 <div align="center">
